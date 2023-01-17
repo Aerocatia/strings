@@ -1,0 +1,16 @@
+/*
+    Halo PC Strings.dll resource data
+    Version 1.0.0.1
+    Tuesday, September 23, 2003 11:58:43 PM
+*/
+
+#include "splash.rc"
+#include "dialog.rc"
+#include "stringtable.rc"
+#include "icon.rc"
+
+#ifndef STRINGS_CUSTOM_VERSION_RC
+#include "version.rc"
+#endif
+
+#include "unknown.rc"

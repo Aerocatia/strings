@@ -1,0 +1,9 @@
+/*
+    Halo PC Strings.dll resource data
+    Version 1.0.0.1
+    Tuesday, September 23, 2003 11:58:43 PM
+*/
+
+LANGUAGE 9, 1
+
+134 BITMAP "splash.bmp"
