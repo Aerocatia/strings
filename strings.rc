@@ -4,10 +4,16 @@
     Tuesday, September 23, 2003 11:58:43 PM
 */
 
+#ifndef STRINGS_CUSTOM_SPLASH_RC
 #include "splash.rc"
+#endif
+
 #include "dialog.rc"
 #include "stringtable.rc"
+
+#ifndef STRINGS_CUSTOM_ICON_RC
 #include "icon.rc"
+#endif
 
 #ifndef STRINGS_CUSTOM_VERSION_RC
 #include "version.rc"
