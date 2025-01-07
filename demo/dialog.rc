@@ -94,8 +94,6 @@ BEGIN
   RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
 END
 LANGUAGE 16, 1
-/* Code page: 1313409289
-   COFF reserved value: 151604289.  */
 
 102 DIALOGEX 0, 0, 305, 102
 STYLE 0x80c800c8
@@ -114,8 +112,6 @@ BEGIN
   RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
 END
 LANGUAGE 17, 1
-/* Code page: 151610732
-   COFF reserved value: 1768710410.  */
 
 102 DIALOGEX 0, 0, 305, 102
 STYLE 0x80c800c8
