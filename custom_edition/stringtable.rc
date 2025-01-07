@@ -1,0 +1,1186 @@
+/*
+    Halo Custom Edition Strings.dll resource data
+    Version 1.0.10.621
+*/
+
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  101, "Your system does not have enough RAM or virtual memory to run the game. Please close any addtional programs that may be running or increase your virtual memory settings. If you wish to add additional RAM, please contact your computer manufacturer for any necessary assistance."
+  102, "We are sorry, but your computer's processor appears to be running too slow to run the game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  103, "We are sorry, but your computer's video hardware is below the recommended minimum spec for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  104, "Your computer's video driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  105, "Your computer's video driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  106, "We are sorry, but we have detected that the game did not exit correctly. We recommend starting the game in safe mode. Safe mode may disable some advanced features of the game, but may allow you to play the game."
+  107, "We are sorry, but you need to have DirectX 9.0b installed to run this program. Please run Halo PC setup again to install DirectX."
+  108, "We are sorry, but your computer's video hardware has less than the recommended minimum video memory required for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  109, "Your computer's hard drive has less than 100MB of available disk space. You will need to clear space in order to play the game. "
+  110, "http://www.microsoft.com/games/halo/support.asp"
+  111, "http://www.microsoft.com/games/halo/support.asp"
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  101, "Your system does not have enough RAM or virtual memory to run the game. Please close any addtional programs that may be running or increase your virtual memory settings. If you wish to add additional RAM, please contact your computer manufacturer for any necessary assistance."
+  102, "We are sorry, but your computer's processor appears to be running too slow to run the game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  103, "We are sorry, but your computer's video hardware is below the recommended minimum spec for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  104, "Your computer's video driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  105, "Your computer's video driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  106, "We are sorry, but we have detected that the game did not exit correctly. We recommend starting the game in safe mode. Safe mode may disable some advanced features of the game, but may allow you to play the game."
+  107, "We are sorry, but you need to have DirectX 9.0b installed to run this program. Please run Halo PC setup again to install DirectX."
+  108, "We are sorry, but your computer's video hardware has less than the recommended minimum video memory required for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  109, "Your computer's hard drive has less than 100MB of available disk space. You will need to clear space in order to play the game. "
+  110, "http://www.microsoft.com/games/halo/support.asp"
+  111, "http://www.microsoft.com/games/halo/support.asp"
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  101, "Your system does not have enough RAM or virtual memory to run the game. Please close any addtional programs that may be running or increase your virtual memory settings. If you wish to add additional RAM, please contact your computer manufacturer for any necessary assistance."
+  102, "We are sorry, but your computer's processor appears to be running too slow to run the game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  103, "We are sorry, but your computer's video hardware is below the recommended minimum spec for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  104, "Your computer's video driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  105, "Your computer's video driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  106, "We are sorry, but we have detected that the game did not exit correctly. We recommend starting the game in safe mode. Safe mode may disable some advanced features of the game, but may allow you to play the game."
+  107, "We are sorry, but you need to have DirectX 9.0b installed to run this program. Please run Halo PC setup again to install DirectX."
+  108, "We are sorry, but your computer's video hardware has less than the recommended minimum video memory required for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  109, "Your computer's hard drive has less than 100MB of available disk space. You will need to clear space in order to play the game. "
+  110, "http://www.microsoft.com/games/halo/support.asp"
+  111, "http://www.microsoft.com/games/halo/support.asp"
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  101, "Your system does not have enough RAM or virtual memory to run the game. Please close any addtional programs that may be running or increase your virtual memory settings. If you wish to add additional RAM, please contact your computer manufacturer for any necessary assistance."
+  102, "We are sorry, but your computer's processor appears to be running too slow to run the game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  103, "We are sorry, but your computer's video hardware is below the recommended minimum spec for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  104, "Your computer's video driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  105, "Your computer's video driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  106, "We are sorry, but we have detected that the game did not exit correctly. We recommend starting the game in safe mode. Safe mode may disable some advanced features of the game, but may allow you to play the game."
+  107, "We are sorry, but you need to have DirectX 9.0b installed to run this program. Please run Halo PC setup again to install DirectX."
+  108, "We are sorry, but your computer's video hardware has less than the recommended minimum video memory required for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  109, "Your computer's hard drive has less than 100MB of available disk space. You will need to clear space in order to play the game. "
+  110, "http://www.microsoft.com/games/halo/support.asp"
+  111, "http://www.microsoft.com/games/halo/support.asp"
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  101, "Your system does not have enough RAM or virtual memory to run the game. Please close any addtional programs that may be running or increase your virtual memory settings. If you wish to add additional RAM, please contact your computer manufacturer for any necessary assistance."
+  102, "We are sorry, but your computer's processor appears to be running too slow to run the game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  103, "We are sorry, but your computer's video hardware is below the recommended minimum spec for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  104, "Your computer's video driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  105, "Your computer's video driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  106, "We are sorry, but we have detected that the game did not exit correctly. We recommend starting the game in safe mode. Safe mode may disable some advanced features of the game, but may allow you to play the game."
+  107, "We are sorry, but you need to have DirectX 9.0b installed to run this program. Please run Halo PC setup again to install DirectX."
+  108, "We are sorry, but your computer's video hardware has less than the recommended minimum video memory required for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  109, "Your computer's hard drive has less than 100MB of available disk space. You will need to clear space in order to play the game. "
+  110, "http://www.microsoft.com/games/halo/support.asp"
+  111, "http://www.microsoft.com/games/halo/support.asp"
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  101, "Your system does not have enough RAM or virtual memory to run the game. Please close any addtional programs that may be running or increase your virtual memory settings. If you wish to add additional RAM, please contact your computer manufacturer for any necessary assistance."
+  102, "We are sorry, but your computer's processor appears to be running too slow to run the game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  103, "We are sorry, but your computer's video hardware is below the recommended minimum spec for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  104, "Your computer's video driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  105, "Your computer's video driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  106, "We are sorry, but we have detected that the game did not exit correctly. We recommend starting the game in safe mode. Safe mode may disable some advanced features of the game, but may allow you to play the game."
+  107, "We are sorry, but you need to have DirectX 9.0b installed to run this program. Please run Halo PC setup again to install DirectX."
+  108, "We are sorry, but your computer's video hardware has less than the recommended minimum video memory required for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  109, "Your computer's hard drive has less than 100MB of available disk space. You will need to clear space in order to play the game. "
+  110, "http://www.microsoft.com/games/halo/support.asp"
+  111, "http://www.microsoft.com/games/halo/support.asp"
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  101, "Your system does not have enough RAM or virtual memory to run the game. Please close any addtional programs that may be running or increase your virtual memory settings. If you wish to add additional RAM, please contact your computer manufacturer for any necessary assistance."
+  102, "We are sorry, but your computer's processor appears to be running too slow to run the game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  103, "We are sorry, but your computer's video hardware is below the recommended minimum spec for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  104, "Your computer's video driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  105, "Your computer's video driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  106, "We are sorry, but we have detected that the game did not exit correctly. We recommend starting the game in safe mode. Safe mode may disable some advanced features of the game, but may allow you to play the game."
+  107, "We are sorry, but you need to have DirectX 9.0b installed to run this program. Please run Halo PC setup again to install DirectX."
+  108, "We are sorry, but your computer's video hardware has less than the recommended minimum video memory required for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  109, "Your computer's hard drive has less than 100MB of available disk space. You will need to clear space in order to play the game. "
+  110, "http://www.microsoft.com/games/halo/support.asp"
+  111, "http://www.microsoft.com/games/halo/support.asp"
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  101, "Your system does not have enough RAM or virtual memory to run the game. Please close any addtional programs that may be running or increase your virtual memory settings. If you wish to add additional RAM, please contact your computer manufacturer for any necessary assistance."
+  102, "We are sorry, but your computer's processor appears to be running too slow to run the game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  103, "We are sorry, but your computer's video hardware is below the recommended minimum spec for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  104, "Your computer's video driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  105, "Your computer's video driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  106, "We are sorry, but we have detected that the game did not exit correctly. We recommend starting the game in safe mode. Safe mode may disable some advanced features of the game, but may allow you to play the game."
+  107, "We are sorry, but you need to have DirectX 9.0b installed to run this program. Please run Halo PC setup again to install DirectX."
+  108, "We are sorry, but your computer's video hardware has less than the recommended minimum video memory required for this game. If you wish to upgrade your computer, please contact your computer manufacturer for any necessary assistance."
+  109, "Your computer's hard drive has less than 100MB of available disk space. You will need to clear space in order to play the game. "
+  110, "http://www.microsoft.com/games/halo/support.asp"
+  111, "http://www.microsoft.com/games/halo/support.asp"
+END
+
+/* Name: 8.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  112, "http://www.microsoft.com/games/halo/support.asp"
+  113, "http://www.microsoft.com/games/halo/support.asp"
+  114, "http://www.microsoft.com/games/halo/support.asp"
+  115, "http://www.microsoft.com/games/halo/support.asp"
+  116, "http://support.microsoft.com/default.aspx?pr=drx"
+  117, "http://www.microsoft.com/games/halo/support.asp"
+  118, "http://www.microsoft.com/games/halo/support.asp"
+  119, "Exception!"
+  120, "Gathering Exception Data..."
+  121, "A problem occured initializing DirectDraw. Hardware acceleration maybe disabled, please run DXDIAG."
+  122, "http://support.microsoft.com/default.aspx?pr=drx"
+  123, "A problem occured initializing DirectSound"
+  124, "A problem occured initializing DirectInput"
+  125, "SHFolder.dll is missing, we recommend you reinstall."
+  126, "http://www.microsoft.com/games/halo/support.asp"
+  127, "Halo - Warning"
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  112, "http://www.microsoft.com/games/halo/support.asp"
+  113, "http://www.microsoft.com/games/halo/support.asp"
+  114, "http://www.microsoft.com/games/halo/support.asp"
+  115, "http://www.microsoft.com/games/halo/support.asp"
+  116, "http://support.microsoft.com/default.aspx?pr=drx"
+  117, "http://www.microsoft.com/games/halo/support.asp"
+  118, "http://www.microsoft.com/games/halo/support.asp"
+  119, "Exception!"
+  120, "Gathering Exception Data..."
+  121, "A problem occured initializing DirectDraw. Hardware acceleration maybe disabled, please run DXDIAG."
+  122, "http://support.microsoft.com/default.aspx?pr=drx"
+  123, "A problem occured initializing DirectSound"
+  124, "A problem occured initializing DirectInput"
+  125, "SHFolder.dll is missing, we recommend you reinstall."
+  126, "http://www.microsoft.com/games/halo/support.asp"
+  127, "Halo - Warning"
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  112, "http://www.microsoft.com/games/halo/support.asp"
+  113, "http://www.microsoft.com/games/halo/support.asp"
+  114, "http://www.microsoft.com/games/halo/support.asp"
+  115, "http://www.microsoft.com/games/halo/support.asp"
+  116, "http://support.microsoft.com/default.aspx?pr=drx"
+  117, "http://www.microsoft.com/games/halo/support.asp"
+  118, "http://www.microsoft.com/games/halo/support.asp"
+  119, "Exception!"
+  120, "Gathering Exception Data..."
+  121, "A problem occured initializing DirectDraw. Hardware acceleration maybe disabled, please run DXDIAG."
+  122, "http://support.microsoft.com/default.aspx?pr=drx"
+  123, "A problem occured initializing DirectSound"
+  124, "A problem occured initializing DirectInput"
+  125, "SHFolder.dll is missing, we recommend you reinstall."
+  126, "http://www.microsoft.com/games/halo/support.asp"
+  127, "Halo - Warning"
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  112, "http://www.microsoft.com/games/halo/support.asp"
+  113, "http://www.microsoft.com/games/halo/support.asp"
+  114, "http://www.microsoft.com/games/halo/support.asp"
+  115, "http://www.microsoft.com/games/halo/support.asp"
+  116, "http://support.microsoft.com/default.aspx?pr=drx"
+  117, "http://www.microsoft.com/games/halo/support.asp"
+  118, "http://www.microsoft.com/games/halo/support.asp"
+  119, "Exception!"
+  120, "Gathering Exception Data..."
+  121, "A problem occured initializing DirectDraw. Hardware acceleration maybe disabled, please run DXDIAG."
+  122, "http://support.microsoft.com/default.aspx?pr=drx"
+  123, "A problem occured initializing DirectSound"
+  124, "A problem occured initializing DirectInput"
+  125, "SHFolder.dll is missing, we recommend you reinstall."
+  126, "http://www.microsoft.com/games/halo/support.asp"
+  127, "Halo - Warning"
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  112, "http://www.microsoft.com/games/halo/support.asp"
+  113, "http://www.microsoft.com/games/halo/support.asp"
+  114, "http://www.microsoft.com/games/halo/support.asp"
+  115, "http://www.microsoft.com/games/halo/support.asp"
+  116, "http://support.microsoft.com/default.aspx?pr=drx"
+  117, "http://www.microsoft.com/games/halo/support.asp"
+  118, "http://www.microsoft.com/games/halo/support.asp"
+  119, "Exception!"
+  120, "Gathering Exception Data..."
+  121, "A problem occured initializing DirectDraw. Hardware acceleration maybe disabled, please run DXDIAG."
+  122, "http://support.microsoft.com/default.aspx?pr=drx"
+  123, "A problem occured initializing DirectSound"
+  124, "A problem occured initializing DirectInput"
+  125, "SHFolder.dll is missing, we recommend you reinstall."
+  126, "http://www.microsoft.com/games/halo/support.asp"
+  127, "Halo - Warning"
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  112, "http://www.microsoft.com/games/halo/support.asp"
+  113, "http://www.microsoft.com/games/halo/support.asp"
+  114, "http://www.microsoft.com/games/halo/support.asp"
+  115, "http://www.microsoft.com/games/halo/support.asp"
+  116, "http://support.microsoft.com/default.aspx?pr=drx"
+  117, "http://www.microsoft.com/games/halo/support.asp"
+  118, "http://www.microsoft.com/games/halo/support.asp"
+  119, "Exception!"
+  120, "Gathering Exception Data..."
+  121, "A problem occured initializing DirectDraw. Hardware acceleration maybe disabled, please run DXDIAG."
+  122, "http://support.microsoft.com/default.aspx?pr=drx"
+  123, "A problem occured initializing DirectSound"
+  124, "A problem occured initializing DirectInput"
+  125, "SHFolder.dll is missing, we recommend you reinstall."
+  126, "http://www.microsoft.com/games/halo/support.asp"
+  127, "Halo - Warning"
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  112, "http://www.microsoft.com/games/halo/support.asp"
+  113, "http://www.microsoft.com/games/halo/support.asp"
+  114, "http://www.microsoft.com/games/halo/support.asp"
+  115, "http://www.microsoft.com/games/halo/support.asp"
+  116, "http://support.microsoft.com/default.aspx?pr=drx"
+  117, "http://www.microsoft.com/games/halo/support.asp"
+  118, "http://www.microsoft.com/games/halo/support.asp"
+  119, "Exception!"
+  120, "Gathering Exception Data..."
+  121, "A problem occured initializing DirectDraw. Hardware acceleration maybe disabled, please run DXDIAG."
+  122, "http://support.microsoft.com/default.aspx?pr=drx"
+  123, "A problem occured initializing DirectSound"
+  124, "A problem occured initializing DirectInput"
+  125, "SHFolder.dll is missing, we recommend you reinstall."
+  126, "http://www.microsoft.com/games/halo/support.asp"
+  127, "Halo - Warning"
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  112, "http://www.microsoft.com/games/halo/support.asp"
+  113, "http://www.microsoft.com/games/halo/support.asp"
+  114, "http://www.microsoft.com/games/halo/support.asp"
+  115, "http://www.microsoft.com/games/halo/support.asp"
+  116, "http://support.microsoft.com/default.aspx?pr=drx"
+  117, "http://www.microsoft.com/games/halo/support.asp"
+  118, "http://www.microsoft.com/games/halo/support.asp"
+  119, "Exception!"
+  120, "Gathering Exception Data..."
+  121, "A problem occured initializing DirectDraw. Hardware acceleration maybe disabled, please run DXDIAG."
+  122, "http://support.microsoft.com/default.aspx?pr=drx"
+  123, "A problem occured initializing DirectSound"
+  124, "A problem occured initializing DirectInput"
+  125, "SHFolder.dll is missing, we recommend you reinstall."
+  126, "http://www.microsoft.com/games/halo/support.asp"
+  127, "Halo - Warning"
+END
+
+/* Name: 9.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  128, "Halo - Fatal Error"
+  129, "A problem occured initializing Direct3D.  Hardware acceleration maybe disabled, please run DXDIAG."
+  130, "http://support.microsoft.com/default.aspx?pr=drx"
+  131, "Halo PC requires a 32 bit color quality setting to play in a windowed mode. In Windows, right-click on the desktop and choose Properties to adjust to this setting."
+  132, "eula.rtf"
+  135, "You started the game while holding down the control key."
+  136, "-nosound\t\tDisable all sound\n-novideo\t\tDisable video playback\n-nojoystick\tDisable joysticks / gamepads\n-nogamma\tDisable adjustment of gamma\n-useff\t\tForces the game to run as a fixed fuction card\n-use11\t\tForces the game to run as a shader 1.1 card\n-use14\t\tForces the game to run as a shader 1.4 card\n-use20\t\tForces the game to run as a shader 2.0 card\n-safemode\tDisables as much as possible in the game\n\n-window\t\tRun the game in a window\n-width640\tForces the game to run at 640*480\n-vidmode w,h,r\tForces the game to run at width, height[, refresh]\n-adapter x\tForces the game to run fullscreen on a multimon adapter\n\n-port x\t\tServer port address used when hosting games\n-cport x\t\tClient port address used when joining games\n-ip x.x.x.x\tServer IP address used when you have multiple ip addresses\n-screenshot\tEnables the 'Print Scrn' key to generate screenshots\n-timedemo\tRuns four movies and writes out timedemo.txt\n-console\t\tEnable the debugging console\n"
+  137, "We have detected that one of the Halo PC files is missing or corrupted. We recommend removing and reinstalling the game."
+  139, "We are sorry but there was a problem accessing your personal Halo PC files which are located in your My Documents folder."
+  140, "http://www.microsoft.com/games/halo/support.asp"
+  141, "Halo is not compatible with the anti-aliasing mode overrides set in the control panel. Please adjust this setting to 'Off' or 'Application Default'."
+  142, "Your computer's sound driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  143, "Your computer's sound driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  128, "Halo - Fatal Error"
+  129, "A problem occured initializing Direct3D.  Hardware acceleration maybe disabled, please run DXDIAG."
+  130, "http://support.microsoft.com/default.aspx?pr=drx"
+  131, "Halo PC requires a 32 bit color quality setting to play in a windowed mode. In Windows, right-click on the desktop and choose Properties to adjust to this setting."
+  132, "eula.rtf"
+  135, "You started the game while holding down the control key."
+  136, "-nosound\t\tDisable all sound\n-novideo\t\tDisable video playback\n-nojoystick\tDisable joysticks / gamepads\n-nogamma\tDisable adjustment of gamma\n-useff\t\tForces the game to run as a fixed fuction card\n-use11\t\tForces the game to run as a shader 1.1 card\n-use14\t\tForces the game to run as a shader 1.4 card\n-use20\t\tForces the game to run as a shader 2.0 card\n-safemode\tDisables as much as possible in the game\n\n-window\t\tRun the game in a window\n-width640\tForces the game to run at 640*480\n-vidmode w,h,r\tForces the game to run at width, height[, refresh]\n-adapter x\tForces the game to run fullscreen on a multimon adapter\n\n-port x\t\tServer port address used when hosting games\n-cport x\t\tClient port address used when joining games\n-ip x.x.x.x\tServer IP address used when you have multiple ip addresses\n-screenshot\tEnables the 'Print Scrn' key to generate screenshots\n-timedemo\tRuns four movies and writes out timedemo.txt\n-console\t\tEnable the debugging console\n"
+  137, "We have detected that one of the Halo PC files is missing or corrupted. We recommend removing and reinstalling the game."
+  139, "We are sorry but there was a problem accessing your personal Halo PC files which are located in your My Documents folder."
+  140, "http://www.microsoft.com/games/halo/support.asp"
+  141, "Halo is not compatible with the anti-aliasing mode overrides set in the control panel. Please adjust this setting to 'Off' or 'Application Default'."
+  142, "Your computer's sound driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  143, "Your computer's sound driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  128, "Halo - Fatal Error"
+  129, "A problem occured initializing Direct3D.  Hardware acceleration maybe disabled, please run DXDIAG."
+  130, "http://support.microsoft.com/default.aspx?pr=drx"
+  131, "Halo PC requires a 32 bit color quality setting to play in a windowed mode. In Windows, right-click on the desktop and choose Properties to adjust to this setting."
+  132, "eula.rtf"
+  133, "ZOXVZIXDZHTXWXWCCLRUAKTSVYBASKXZXIRY"
+  135, "You started the game while holding down the control key."
+  136, "-nosound\t\tDisable all sound\n-novideo\t\tDisable video playback\n-nojoystick\tDisable joysticks / gamepads\n-nogamma\tDisable adjustment of gamma\n-useff\t\tForces the game to run as a fixed fuction card\n-use11\t\tForces the game to run as a shader 1.1 card\n-use14\t\tForces the game to run as a shader 1.4 card\n-use20\t\tForces the game to run as a shader 2.0 card\n-safemode\tDisables as much as possible in the game\n\n-window\t\tRun the game in a window\n-width640\tForces the game to run at 640*480\n-vidmode w,h,r\tForces the game to run at width, height[, refresh]\n-adapter x\tForces the game to run fullscreen on a multimon adapter\n\n-port x\t\tServer port address used when hosting games\n-cport x\t\tClient port address used when joining games\n-ip x.x.x.x\tServer IP address used when you have multiple ip addresses\n-screenshot\tEnables the 'Print Scrn' key to generate screenshots\n-timedemo\tRuns four movies and writes out timedemo.txt\n-console\t\tEnable the debugging console\n"
+  137, "We have detected that one of the Halo PC files is missing or corrupted. We recommend removing and reinstalling the game."
+  139, "We are sorry but there was a problem accessing your personal Halo PC files which are located in your My Documents folder."
+  140, "http://www.microsoft.com/games/halo/support.asp"
+  141, "Halo is not compatible with the anti-aliasing mode overrides set in the control panel. Please adjust this setting to 'Off' or 'Application Default'."
+  142, "Your computer's sound driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  143, "Your computer's sound driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  128, "Halo - Fatal Error"
+  129, "A problem occured initializing Direct3D.  Hardware acceleration maybe disabled, please run DXDIAG."
+  130, "http://support.microsoft.com/default.aspx?pr=drx"
+  131, "Halo PC requires a 32 bit color quality setting to play in a windowed mode. In Windows, right-click on the desktop and choose Properties to adjust to this setting."
+  132, "eula.rtf"
+  135, "You started the game while holding down the control key."
+  136, "-nosound\t\tDisable all sound\n-novideo\t\tDisable video playback\n-nojoystick\tDisable joysticks / gamepads\n-nogamma\tDisable adjustment of gamma\n-useff\t\tForces the game to run as a fixed fuction card\n-use11\t\tForces the game to run as a shader 1.1 card\n-use14\t\tForces the game to run as a shader 1.4 card\n-use20\t\tForces the game to run as a shader 2.0 card\n-safemode\tDisables as much as possible in the game\n\n-window\t\tRun the game in a window\n-width640\tForces the game to run at 640*480\n-vidmode w,h,r\tForces the game to run at width, height[, refresh]\n-adapter x\tForces the game to run fullscreen on a multimon adapter\n\n-port x\t\tServer port address used when hosting games\n-cport x\t\tClient port address used when joining games\n-ip x.x.x.x\tServer IP address used when you have multiple ip addresses\n-screenshot\tEnables the 'Print Scrn' key to generate screenshots\n-timedemo\tRuns four movies and writes out timedemo.txt\n-console\t\tEnable the debugging console\n"
+  137, "We have detected that one of the Halo PC files is missing or corrupted. We recommend removing and reinstalling the game."
+  139, "We are sorry but there was a problem accessing your personal Halo PC files which are located in your My Documents folder."
+  140, "http://www.microsoft.com/games/halo/support.asp"
+  141, "Halo is not compatible with the anti-aliasing mode overrides set in the control panel. Please adjust this setting to 'Off' or 'Application Default'."
+  142, "Your computer's sound driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  143, "Your computer's sound driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  128, "Halo - Fatal Error"
+  129, "A problem occured initializing Direct3D.  Hardware acceleration maybe disabled, please run DXDIAG."
+  130, "http://support.microsoft.com/default.aspx?pr=drx"
+  131, "Halo PC requires a 32 bit color quality setting to play in a windowed mode. In Windows, right-click on the desktop and choose Properties to adjust to this setting."
+  132, "eula.rtf"
+  135, "You started the game while holding down the control key."
+  136, "-nosound\t\tDisable all sound\n-novideo\t\tDisable video playback\n-nojoystick\tDisable joysticks / gamepads\n-nogamma\tDisable adjustment of gamma\n-useff\t\tForces the game to run as a fixed fuction card\n-use11\t\tForces the game to run as a shader 1.1 card\n-use14\t\tForces the game to run as a shader 1.4 card\n-use20\t\tForces the game to run as a shader 2.0 card\n-safemode\tDisables as much as possible in the game\n\n-window\t\tRun the game in a window\n-width640\tForces the game to run at 640*480\n-vidmode w,h,r\tForces the game to run at width, height[, refresh]\n-adapter x\tForces the game to run fullscreen on a multimon adapter\n\n-port x\t\tServer port address used when hosting games\n-cport x\t\tClient port address used when joining games\n-ip x.x.x.x\tServer IP address used when you have multiple ip addresses\n-screenshot\tEnables the 'Print Scrn' key to generate screenshots\n-timedemo\tRuns four movies and writes out timedemo.txt\n-console\t\tEnable the debugging console\n"
+  137, "We have detected that one of the Halo PC files is missing or corrupted. We recommend removing and reinstalling the game."
+  139, "We are sorry but there was a problem accessing your personal Halo PC files which are located in your My Documents folder."
+  140, "http://www.microsoft.com/games/halo/support.asp"
+  141, "Halo is not compatible with the anti-aliasing mode overrides set in the control panel. Please adjust this setting to 'Off' or 'Application Default'."
+  142, "Your computer's sound driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  143, "Your computer's sound driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  128, "Halo - Fatal Error"
+  129, "A problem occured initializing Direct3D.  Hardware acceleration maybe disabled, please run DXDIAG."
+  130, "http://support.microsoft.com/default.aspx?pr=drx"
+  131, "Halo PC requires a 32 bit color quality setting to play in a windowed mode. In Windows, right-click on the desktop and choose Properties to adjust to this setting."
+  132, "eula.rtf"
+  135, "You started the game while holding down the control key."
+  136, "-nosound\t\tDisable all sound\n-novideo\t\tDisable video playback\n-nojoystick\tDisable joysticks / gamepads\n-nogamma\tDisable adjustment of gamma\n-useff\t\tForces the game to run as a fixed fuction card\n-use11\t\tForces the game to run as a shader 1.1 card\n-use14\t\tForces the game to run as a shader 1.4 card\n-use20\t\tForces the game to run as a shader 2.0 card\n-safemode\tDisables as much as possible in the game\n\n-window\t\tRun the game in a window\n-width640\tForces the game to run at 640*480\n-vidmode w,h,r\tForces the game to run at width, height[, refresh]\n-adapter x\tForces the game to run fullscreen on a multimon adapter\n\n-port x\t\tServer port address used when hosting games\n-cport x\t\tClient port address used when joining games\n-ip x.x.x.x\tServer IP address used when you have multiple ip addresses\n-screenshot\tEnables the 'Print Scrn' key to generate screenshots\n-timedemo\tRuns four movies and writes out timedemo.txt\n-console\t\tEnable the debugging console\n"
+  137, "We have detected that one of the Halo PC files is missing or corrupted. We recommend removing and reinstalling the game."
+  139, "We are sorry but there was a problem accessing your personal Halo PC files which are located in your My Documents folder."
+  140, "http://www.microsoft.com/games/halo/support.asp"
+  141, "Halo is not compatible with the anti-aliasing mode overrides set in the control panel. Please adjust this setting to 'Off' or 'Application Default'."
+  142, "Your computer's sound driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  143, "Your computer's sound driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  128, "Halo - Fatal Error"
+  129, "A problem occured initializing Direct3D.  Hardware acceleration maybe disabled, please run DXDIAG."
+  130, "http://support.microsoft.com/default.aspx?pr=drx"
+  131, "Halo PC requires a 32 bit color quality setting to play in a windowed mode. In Windows, right-click on the desktop and choose Properties to adjust to this setting."
+  132, "eula.rtf"
+  135, "You started the game while holding down the control key."
+  136, "-nosound\t\tDisable all sound\n-novideo\t\tDisable video playback\n-nojoystick\tDisable joysticks / gamepads\n-nogamma\tDisable adjustment of gamma\n-useff\t\tForces the game to run as a fixed fuction card\n-use11\t\tForces the game to run as a shader 1.1 card\n-use14\t\tForces the game to run as a shader 1.4 card\n-use20\t\tForces the game to run as a shader 2.0 card\n-safemode\tDisables as much as possible in the game\n\n-window\t\tRun the game in a window\n-width640\tForces the game to run at 640*480\n-vidmode w,h,r\tForces the game to run at width, height[, refresh]\n-adapter x\tForces the game to run fullscreen on a multimon adapter\n\n-port x\t\tServer port address used when hosting games\n-cport x\t\tClient port address used when joining games\n-ip x.x.x.x\tServer IP address used when you have multiple ip addresses\n-screenshot\tEnables the 'Print Scrn' key to generate screenshots\n-timedemo\tRuns four movies and writes out timedemo.txt\n-console\t\tEnable the debugging console\n"
+  137, "We have detected that one of the Halo PC files is missing or corrupted. We recommend removing and reinstalling the game."
+  139, "We are sorry but there was a problem accessing your personal Halo PC files which are located in your My Documents folder."
+  140, "http://www.microsoft.com/games/halo/support.asp"
+  141, "Halo is not compatible with the anti-aliasing mode overrides set in the control panel. Please adjust this setting to 'Off' or 'Application Default'."
+  142, "Your computer's sound driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  143, "Your computer's sound driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  128, "Halo - Fatal Error"
+  129, "A problem occured initializing Direct3D.  Hardware acceleration maybe disabled, please run DXDIAG."
+  130, "http://support.microsoft.com/default.aspx?pr=drx"
+  131, "Halo PC requires a 32 bit color quality setting to play in a windowed mode. In Windows, right-click on the desktop and choose Properties to adjust to this setting."
+  132, "eula.rtf"
+  135, "You started the game while holding down the control key."
+  136, "-nosound\t\tDisable all sound\n-novideo\t\tDisable video playback\n-nojoystick\tDisable joysticks / gamepads\n-nogamma\tDisable adjustment of gamma\n-useff\t\tForces the game to run as a fixed fuction card\n-use11\t\tForces the game to run as a shader 1.1 card\n-use14\t\tForces the game to run as a shader 1.4 card\n-use20\t\tForces the game to run as a shader 2.0 card\n-safemode\tDisables as much as possible in the game\n\n-window\t\tRun the game in a window\n-width640\tForces the game to run at 640*480\n-vidmode w,h,r\tForces the game to run at width, height[, refresh]\n-adapter x\tForces the game to run fullscreen on a multimon adapter\n\n-port x\t\tServer port address used when hosting games\n-cport x\t\tClient port address used when joining games\n-ip x.x.x.x\tServer IP address used when you have multiple ip addresses\n-screenshot\tEnables the 'Print Scrn' key to generate screenshots\n-timedemo\tRuns four movies and writes out timedemo.txt\n-console\t\tEnable the debugging console\n"
+  137, "We have detected that one of the Halo PC files is missing or corrupted. We recommend removing and reinstalling the game."
+  139, "We are sorry but there was a problem accessing your personal Halo PC files which are located in your My Documents folder."
+  140, "http://www.microsoft.com/games/halo/support.asp"
+  141, "Halo is not compatible with the anti-aliasing mode overrides set in the control panel. Please adjust this setting to 'Off' or 'Application Default'."
+  142, "Your computer's sound driver was not tested with this game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+  143, "Your computer's sound driver is known to have serious issues with the game. A newer version that is compatible may be available. If you wish to update your drivers, please contact your computer manufacturer for any necessary assistance."
+END
+
+/* Name: 10.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  144, "http://motd-static.hosthpc.com/haloce-motd_110.tw.txt"
+  145, "Autobalance: Team Change Request Denied"
+  146, "There is a copy of Halo already running on this machine."
+  147, "We have detected the video card in your machine may be a prototype. We recommend using only supported retail video cards to play Halo."
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  144, "http://motd-static.hosthpc.com/haloce-motd_110.de.txt"
+  145, "Autobalance: Team Change Request Denied"
+  146, "There is a copy of Halo already running on this machine."
+  147, "We have detected the video card in your machine may be a prototype. We recommend using only supported retail video cards to play Halo."
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  144, "http://motd-static.hosthpc.com/haloce-motd_110.txt"
+  145, "Autobalance: Team Change Request Denied"
+  146, "There is a copy of Halo already running on this machine."
+  147, "We have detected the video card in your machine may be a prototype. We recommend using only supported retail video cards to play Halo."
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  144, "http://motd-static.hosthpc.com/haloce-motd_110.es.txt"
+  145, "Autobalance: Team Change Request Denied"
+  146, "There is a copy of Halo already running on this machine."
+  147, "We have detected the video card in your machine may be a prototype. We recommend using only supported retail video cards to play Halo."
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  144, "http://motd-static.hosthpc.com/haloce-motd_110.fr.txt"
+  145, "Autobalance: Team Change Request Denied"
+  146, "There is a copy of Halo already running on this machine."
+  147, "We have detected the video card in your machine may be a prototype. We recommend using only supported retail video cards to play Halo."
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  144, "http://motd-static.hosthpc.com/haloce-motd_110.it.txt"
+  145, "Autobalance: Team Change Request Denied"
+  146, "There is a copy of Halo already running on this machine."
+  147, "We have detected the video card in your machine may be a prototype. We recommend using only supported retail video cards to play Halo."
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  144, "http://motd-static.hosthpc.com/haloce-motd_110.jp.txt"
+  145, "Autobalance: Team Change Request Denied"
+  146, "There is a copy of Halo already running on this machine."
+  147, "We have detected the video card in your machine may be a prototype. We recommend using only supported retail video cards to play Halo."
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  144, "http://motd-static.hosthpc.com/haloce-motd_110.kr.txt"
+  145, "Autobalance: Team Change Request Denied"
+  146, "There is a copy of Halo already running on this machine."
+  147, "We have detected the video card in your machine may be a prototype. We recommend using only supported retail video cards to play Halo."
+END
+
+/* Name: 11.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  160, "Your product key is invalid. We recommend removing and reinstalling the game."
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  160, "Your product key is invalid. We recommend removing and reinstalling the game."
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  160, "Your product key is invalid. We recommend removing and reinstalling the game."
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  160, "Your product key is invalid. We recommend removing and reinstalling the game."
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  160, "Your product key is invalid. We recommend removing and reinstalling the game."
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  160, "Your product key is invalid. We recommend removing and reinstalling the game."
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  160, "Your product key is invalid. We recommend removing and reinstalling the game."
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  160, "Your product key is invalid. We recommend removing and reinstalling the game."
+END
+
+/* Name: 1155.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  18466, "Cancel"
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  18466, "Cancel"
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  18466, "Cancel"
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  18466, "Cancel"
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  18466, "Cancel"
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  18466, "Cancel"
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  18466, "Cancel"
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  18466, "Cancel"
+END
+
+/* Name: 1259.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  20140, "Downloading update..."
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  20140, "Downloading update..."
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  20140, "Downloading update..."
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  20140, "Downloading update..."
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  20140, "Downloading update..."
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  20140, "Downloading update..."
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  20140, "Downloading update..."
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  20140, "Downloading update..."
+END
+
+/* Name: 1260.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  20148, "Installing update..."
+  20149, "Your game is up to date."
+  20150, "A problem occurred and the game could not be updated. You can also download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+  20151, "The game needs to exit to finish installing the update."
+  20153, "Halo Update"
+  20154, "Waiting for the game to exit..."
+  20155, "Updating the game..."
+  20156, "Restarting the game..."
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  20148, "Installing update..."
+  20149, "Your game is up to date."
+  20150, "A problem occurred and the game could not be updated. You can also download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+  20151, "The game needs to exit to finish installing the update."
+  20153, "Halo Update"
+  20154, "Waiting for the game to exit..."
+  20155, "Updating the game..."
+  20156, "Restarting the game..."
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  20148, "Installing update..."
+  20149, "Your game is up to date."
+  20150, "A problem occurred and the game could not be updated. You can also download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+  20151, "The game needs to exit to finish installing the update."
+  20153, "Halo Update"
+  20154, "Waiting for the game to exit..."
+  20155, "Updating the game..."
+  20156, "Restarting the game..."
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  20148, "Installing update..."
+  20149, "Your game is up to date."
+  20150, "A problem occurred and the game could not be updated. You can also download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+  20151, "The game needs to exit to finish installing the update."
+  20153, "Halo Update"
+  20154, "Waiting for the game to exit..."
+  20155, "Updating the game..."
+  20156, "Restarting the game..."
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  20148, "Installing update..."
+  20149, "Your game is up to date."
+  20150, "A problem occurred and the game could not be updated. You can also download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+  20151, "The game needs to exit to finish installing the update."
+  20153, "Halo Update"
+  20154, "Waiting for the game to exit..."
+  20155, "Updating the game..."
+  20156, "Restarting the game..."
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  20148, "Installing update..."
+  20149, "Your game is up to date."
+  20150, "A problem occurred and the game could not be updated. You can also download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+  20151, "The game needs to exit to finish installing the update."
+  20153, "Halo Update"
+  20154, "Waiting for the game to exit..."
+  20155, "Updating the game..."
+  20156, "Restarting the game..."
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  20148, "Installing update..."
+  20149, "Your game is up to date."
+  20150, "A problem occurred and the game could not be updated. You can also download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+  20151, "The game needs to exit to finish installing the update."
+  20153, "Halo Update"
+  20154, "Waiting for the game to exit..."
+  20155, "Updating the game..."
+  20156, "Restarting the game..."
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  20148, "Installing update..."
+  20149, "Your game is up to date."
+  20150, "A problem occurred and the game could not be updated. You can also download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+  20151, "The game needs to exit to finish installing the update."
+  20153, "Halo Update"
+  20154, "Waiting for the game to exit..."
+  20155, "Updating the game..."
+  20156, "Restarting the game..."
+END
+
+/* Name: 1262.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  20187, "Checking for update..."
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  20187, "Checking for update..."
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  20187, "Checking for update..."
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  20187, "Checking for update..."
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  20187, "Checking for update..."
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  20187, "Checking for update..."
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  20187, "Checking for update..."
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  20187, "Checking for update..."
+END
+
+/* Name: 1348.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  21556, "Connecting to %hs"
+  21561, "There was a connection problem. Make sure you are connected to the Internet and can access http://www.microsoft.com/games/halo/downloads.asp with your Web browser."
+  21562, "There is a problem with your game installation. You may need to reinstall the game to fix it."
+  21563, "There was a file access problem. You have to be logged into Windows as a user with Admin rights."
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  21556, "Connecting to %hs"
+  21561, "There was a connection problem. Make sure you are connected to the Internet and can access http://www.microsoft.com/games/halo/downloads.asp with your Web browser."
+  21562, "There is a problem with your game installation. You may need to reinstall the game to fix it."
+  21563, "There was a file access problem. You have to be logged into Windows as a user with Admin rights."
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  21556, "Connecting to %hs"
+  21561, "There was a connection problem. Make sure you are connected to the Internet and can access http://www.microsoft.com/games/halo/downloads.asp with your Web browser."
+  21562, "There is a problem with your game installation. You may need to reinstall the game to fix it."
+  21563, "There was a file access problem. You have to be logged into Windows as a user with Admin rights."
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  21556, "Connecting to %hs"
+  21561, "There was a connection problem. Make sure you are connected to the Internet and can access http://www.microsoft.com/games/halo/downloads.asp with your Web browser."
+  21562, "There is a problem with your game installation. You may need to reinstall the game to fix it."
+  21563, "There was a file access problem. You have to be logged into Windows as a user with Admin rights."
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  21556, "Connecting to %hs"
+  21561, "There was a connection problem. Make sure you are connected to the Internet and can access http://www.microsoft.com/games/halo/downloads.asp with your Web browser."
+  21562, "There is a problem with your game installation. You may need to reinstall the game to fix it."
+  21563, "There was a file access problem. You have to be logged into Windows as a user with Admin rights."
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  21556, "Connecting to %hs"
+  21561, "There was a connection problem. Make sure you are connected to the Internet and can access http://www.microsoft.com/games/halo/downloads.asp with your Web browser."
+  21562, "There is a problem with your game installation. You may need to reinstall the game to fix it."
+  21563, "There was a file access problem. You have to be logged into Windows as a user with Admin rights."
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  21556, "Connecting to %hs"
+  21561, "There was a connection problem. Make sure you are connected to the Internet and can access http://www.microsoft.com/games/halo/downloads.asp with your Web browser."
+  21562, "There is a problem with your game installation. You may need to reinstall the game to fix it."
+  21563, "There was a file access problem. You have to be logged into Windows as a user with Admin rights."
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  21556, "Connecting to %hs"
+  21561, "There was a connection problem. Make sure you are connected to the Internet and can access http://www.microsoft.com/games/halo/downloads.asp with your Web browser."
+  21562, "There is a problem with your game installation. You may need to reinstall the game to fix it."
+  21563, "There was a file access problem. You have to be logged into Windows as a user with Admin rights."
+END
+
+/* Name: 1349.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  21573, "%d%% complete"
+  21574, "Processing file %hs"
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  21573, "%d%% complete"
+  21574, "Processing file %hs"
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  21573, "%d%% complete"
+  21574, "Processing file %hs"
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  21573, "%d%% complete"
+  21574, "Processing file %hs"
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  21573, "%d%% complete"
+  21574, "Processing file %hs"
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  21573, "%d%% complete"
+  21574, "Processing file %hs"
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  21573, "%d%% complete"
+  21574, "Processing file %hs"
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  21573, "%d%% complete"
+  21574, "Processing file %hs"
+END
+
+/* Name: 1421.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  22726, "The game was successfully updated."
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  22726, "The game was successfully updated."
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  22726, "The game was successfully updated."
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  22726, "The game was successfully updated."
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  22726, "The game was successfully updated."
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  22726, "The game was successfully updated."
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  22726, "The game was successfully updated."
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  22726, "The game was successfully updated."
+END
+
+/* Name: 1422.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  22748, "A connection problem occurred. You can download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  22748, "A connection problem occurred. You can download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  22748, "A connection problem occurred. You can download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  22748, "A connection problem occurred. You can download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  22748, "A connection problem occurred. You can download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  22748, "A connection problem occurred. You can download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  22748, "A connection problem occurred. You can download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  22748, "A connection problem occurred. You can download the latest update from http://www.microsoft.com/games/halo/downloads.asp"
+END
+
+/* Name: 1438.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  23000, "%6.2f%% (%d / %d bytes)"
+  23001, "%d bytes"
+  23002, "%.2f kbytes/sec"
+  23003, "You must restart your computer to complete the update.\nIf you want to restart later, or close other programs first, click No, and then restart your computer manually.\n\nDo you want to restart now?"
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  23000, "%6.2f%% (%d / %d bytes)"
+  23001, "%d bytes"
+  23002, "%.2f kbytes/sec"
+  23003, "You must restart your computer to complete the update.\nIf you want to restart later, or close other programs first, click No, and then restart your computer manually.\n\nDo you want to restart now?"
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  23000, "%6.2f%% (%d / %d bytes)"
+  23001, "%d bytes"
+  23002, "%.2f kbytes/sec"
+  23003, "You must restart your computer to complete the update.\nIf you want to restart later, or close other programs first, click No, and then restart your computer manually.\n\nDo you want to restart now?"
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  23000, "%6.2f%% (%d / %d bytes)"
+  23001, "%d bytes"
+  23002, "%.2f kbytes/sec"
+  23003, "You must restart your computer to complete the update.\nIf you want to restart later, or close other programs first, click No, and then restart your computer manually.\n\nDo you want to restart now?"
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  23000, "%6.2f%% (%d / %d bytes)"
+  23001, "%d bytes"
+  23002, "%.2f kbytes/sec"
+  23003, "You must restart your computer to complete the update.\nIf you want to restart later, or close other programs first, click No, and then restart your computer manually.\n\nDo you want to restart now?"
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  23000, "%6.2f%% (%d / %d bytes)"
+  23001, "%d bytes"
+  23002, "%.2f kbytes/sec"
+  23003, "You must restart your computer to complete the update.\nIf you want to restart later, or close other programs first, click No, and then restart your computer manually.\n\nDo you want to restart now?"
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  23000, "%6.2f%% (%d / %d bytes)"
+  23001, "%d bytes"
+  23002, "%.2f kbytes/sec"
+  23003, "You must restart your computer to complete the update.\nIf you want to restart later, or close other programs first, click No, and then restart your computer manually.\n\nDo you want to restart now?"
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  23000, "%6.2f%% (%d / %d bytes)"
+  23001, "%d bytes"
+  23002, "%.2f kbytes/sec"
+  23003, "You must restart your computer to complete the update.\nIf you want to restart later, or close other programs first, click No, and then restart your computer manually.\n\nDo you want to restart now?"
+END
+
+/* Name: 2048.  */
+LANGUAGE 4, 1
+
+STRINGTABLE
+BEGIN
+  32767, "English"
+END
+LANGUAGE 7, 1
+
+STRINGTABLE
+BEGIN
+  32767, "English"
+END
+LANGUAGE 9, 1
+
+STRINGTABLE
+BEGIN
+  32767, "English"
+END
+LANGUAGE 10, 1
+
+STRINGTABLE
+BEGIN
+  32767, "English"
+END
+LANGUAGE 12, 1
+
+STRINGTABLE
+BEGIN
+  32767, "English"
+END
+LANGUAGE 16, 1
+
+STRINGTABLE
+BEGIN
+  32767, "English"
+END
+LANGUAGE 17, 1
+
+STRINGTABLE
+BEGIN
+  32767, "English"
+END
+LANGUAGE 18, 1
+
+STRINGTABLE
+BEGIN
+  32767, "English"
+END

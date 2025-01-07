@@ -1,0 +1,149 @@
+/*
+    Halo Custom Edition Strings.dll resource data
+    Version 1.0.10.621
+*/
+
+LANGUAGE 4, 1
+
+102 DIALOGEX 0, 0, 305, 102
+STYLE 0x80c800c8
+CAPTION "Halo - Warning"
+FONT 8, "MS Shell Dlg", 400, 0, 1
+BEGIN
+  DEFPUSHBUTTON "Continue Anyway", 1004, 6, 80, 88, 14, 0x50010001
+  PUSHBUTTON "Continue in 'Safe Mode'", 3, 107, 80, 88, 14, 0x50010000
+  PUSHBUTTON "Exit", 1005, 209, 80, 88, 14, 0x50010000
+  AUTOCHECKBOX "Don't show this warning again", 1001, 6, 64, 109, 10, 0x50010003
+  LTEXT "Static", 1006, 50, 7, 247, 41, 0x50021000, 0x20000, 0
+  ICON 105, -1, 18, 21, 20, 20, 0x50000003
+  LTEXT "Click here for more information.", 1007, 195, 65, 102, 8, 0x50020100, 0x1000, 0
+  LTEXT "Static", 1009, 62, 52, 235, 8, 0x50020000
+  LTEXT "Machine Info :", -1, 7, 52, 47, 8, 0x50020000
+  RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
+END
+LANGUAGE 7, 1
+
+102 DIALOGEX 0, 0, 305, 102
+STYLE 0x80c800c8
+CAPTION "Halo - Warning"
+FONT 8, "MS Shell Dlg", 400, 0, 1
+BEGIN
+  DEFPUSHBUTTON "Continue Anyway", 1004, 6, 80, 88, 14, 0x50010001
+  PUSHBUTTON "Continue in 'Safe Mode'", 3, 107, 80, 88, 14, 0x50010000
+  PUSHBUTTON "Exit", 1005, 209, 80, 88, 14, 0x50010000
+  AUTOCHECKBOX "Don't show this warning again", 1001, 6, 64, 109, 10, 0x50010003
+  LTEXT "Static", 1006, 50, 7, 247, 41, 0x50021000, 0x20000, 0
+  ICON 105, -1, 18, 21, 20, 20, 0x50000003
+  LTEXT "Click here for more information.", 1007, 195, 65, 102, 8, 0x50020100, 0x1000, 0
+  LTEXT "Static", 1009, 62, 52, 235, 8, 0x50020000
+  LTEXT "Machine Info :", -1, 7, 52, 47, 8, 0x50020000
+  RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
+END
+LANGUAGE 9, 1
+
+102 DIALOGEX 0, 0, 305, 102
+STYLE 0x80c800c8
+CAPTION "Halo - Warning"
+FONT 8, "MS Shell Dlg", 400, 0, 1
+BEGIN
+  DEFPUSHBUTTON "Continue Anyway", 1004, 6, 80, 88, 14, 0x50010001
+  PUSHBUTTON "Continue in 'Safe Mode'", 3, 107, 80, 88, 14, 0x50010000
+  PUSHBUTTON "Exit", 1005, 209, 80, 88, 14, 0x50010000
+  AUTOCHECKBOX "Don't show this warning again", 1001, 6, 64, 109, 10, 0x50010003
+  LTEXT "Static", 1006, 50, 7, 247, 41, 0x50021000, 0x20000, 0
+  ICON 105, -1, 18, 21, 20, 20, 0x50000003
+  LTEXT "Click here for more information.", 1007, 195, 65, 102, 8, 0x50020100, 0x1000, 0
+  LTEXT "Static", 1009, 62, 52, 235, 8, 0x50020000
+  LTEXT "Machine Info :", -1, 7, 52, 47, 8, 0x50020000
+  RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
+END
+LANGUAGE 10, 1
+
+102 DIALOGEX 0, 0, 305, 102
+STYLE 0x80c800c8
+CAPTION "Halo - Warning"
+FONT 8, "MS Shell Dlg", 400, 0, 1
+BEGIN
+  DEFPUSHBUTTON "Continue Anyway", 1004, 6, 80, 88, 14, 0x50010001
+  PUSHBUTTON "Continue in 'Safe Mode'", 3, 107, 80, 88, 14, 0x50010000
+  PUSHBUTTON "Exit", 1005, 209, 80, 88, 14, 0x50010000
+  AUTOCHECKBOX "Don't show this warning again", 1001, 6, 64, 109, 10, 0x50010003
+  LTEXT "Static", 1006, 50, 7, 247, 41, 0x50021000, 0x20000, 0
+  ICON 105, -1, 18, 21, 20, 20, 0x50000003
+  LTEXT "Click here for more information.", 1007, 195, 65, 102, 8, 0x50020100, 0x1000, 0
+  LTEXT "Static", 1009, 62, 52, 235, 8, 0x50020000
+  LTEXT "Machine Info :", -1, 7, 52, 47, 8, 0x50020000
+  RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
+END
+LANGUAGE 12, 1
+
+102 DIALOGEX 0, 0, 305, 102
+STYLE 0x80c800c8
+CAPTION "Halo - Warning"
+FONT 8, "MS Shell Dlg", 400, 0, 1
+BEGIN
+  DEFPUSHBUTTON "Continue Anyway", 1004, 6, 80, 88, 14, 0x50010001
+  PUSHBUTTON "Continue in 'Safe Mode'", 3, 107, 80, 88, 14, 0x50010000
+  PUSHBUTTON "Exit", 1005, 209, 80, 88, 14, 0x50010000
+  AUTOCHECKBOX "Don't show this warning again", 1001, 6, 64, 109, 10, 0x50010003
+  LTEXT "Static", 1006, 50, 7, 247, 41, 0x50021000, 0x20000, 0
+  ICON 105, -1, 18, 21, 20, 20, 0x50000003
+  LTEXT "Click here for more information.", 1007, 195, 65, 102, 8, 0x50020100, 0x1000, 0
+  LTEXT "Static", 1009, 62, 52, 235, 8, 0x50020000
+  LTEXT "Machine Info :", -1, 7, 52, 47, 8, 0x50020000
+  RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
+END
+LANGUAGE 16, 1
+
+102 DIALOGEX 0, 0, 305, 102
+STYLE 0x80c800c8
+CAPTION "Halo - Warning"
+FONT 8, "MS Shell Dlg", 400, 0, 1
+BEGIN
+  DEFPUSHBUTTON "Continue Anyway", 1004, 6, 80, 88, 14, 0x50010001
+  PUSHBUTTON "Continue in 'Safe Mode'", 3, 107, 80, 88, 14, 0x50010000
+  PUSHBUTTON "Exit", 1005, 209, 80, 88, 14, 0x50010000
+  AUTOCHECKBOX "Don't show this warning again", 1001, 6, 64, 109, 10, 0x50010003
+  LTEXT "Static", 1006, 50, 7, 247, 41, 0x50021000, 0x20000, 0
+  ICON 105, -1, 18, 21, 20, 20, 0x50000003
+  LTEXT "Click here for more information.", 1007, 195, 65, 102, 8, 0x50020100, 0x1000, 0
+  LTEXT "Static", 1009, 62, 52, 235, 8, 0x50020000
+  LTEXT "Machine Info :", -1, 7, 52, 47, 8, 0x50020000
+  RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
+END
+LANGUAGE 17, 1
+
+102 DIALOGEX 0, 0, 305, 102
+STYLE 0x80c800c8
+CAPTION "Halo - Warning"
+FONT 8, "MS Shell Dlg", 400, 0, 1
+BEGIN
+  DEFPUSHBUTTON "Continue Anyway", 1004, 6, 80, 88, 14, 0x50010001
+  PUSHBUTTON "Continue in 'Safe Mode'", 3, 107, 80, 88, 14, 0x50010000
+  PUSHBUTTON "Exit", 1005, 209, 80, 88, 14, 0x50010000
+  AUTOCHECKBOX "Don't show this warning again", 1001, 6, 64, 109, 10, 0x50010003
+  LTEXT "Static", 1006, 50, 7, 247, 41, 0x50021000, 0x20000, 0
+  ICON 105, -1, 18, 21, 20, 20, 0x50000003
+  LTEXT "Click here for more information.", 1007, 195, 65, 102, 8, 0x50020100, 0x1000, 0
+  LTEXT "Static", 1009, 62, 52, 235, 8, 0x50020000
+  LTEXT "Machine Info :", -1, 7, 52, 47, 8, 0x50020000
+  RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
+END
+LANGUAGE 18, 1
+
+102 DIALOGEX 0, 0, 305, 102
+STYLE 0x80c800c8
+CAPTION "Halo - Warning"
+FONT 8, "MS Shell Dlg", 400, 0, 1
+BEGIN
+  DEFPUSHBUTTON "Continue Anyway", 1004, 6, 80, 88, 14, 0x50010001
+  PUSHBUTTON "Continue in 'Safe Mode'", 3, 107, 80, 88, 14, 0x50010000
+  PUSHBUTTON "Exit", 1005, 209, 80, 88, 14, 0x50010000
+  AUTOCHECKBOX "Don't show this warning again", 1001, 6, 64, 109, 10, 0x50010003
+  LTEXT "Static", 1006, 50, 7, 247, 41, 0x50021000, 0x20000, 0
+  ICON 105, -1, 18, 21, 20, 20, 0x50000003
+  LTEXT "Click here for more information.", 1007, 195, 65, 102, 8, 0x50020100, 0x1000, 0
+  LTEXT "Static", 1009, 62, 52, 235, 8, 0x50020000
+  LTEXT "Machine Info :", -1, 7, 52, 47, 8, 0x50020000
+  RTEXT "Problem:", -1, 7, 7, 36, 8, 0x50020002
+END
