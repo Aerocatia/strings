@@ -1,0 +1,8 @@
+/*
+    Halo Trial Strings.dll resource data
+    Version 1.0.0.578
+*/
+
+LANGUAGE 9, 1
+
+105 ICON "../data/halo.ico"
