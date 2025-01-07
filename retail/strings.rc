@@ -1,0 +1,23 @@
+/*
+    Halo PC Strings.dll resource data
+    Version 1.0.10.621
+*/
+
+#include "guidelines.rc"
+
+#ifndef STRINGS_CUSTOM_SPLASH_RC
+#include "splash.rc"
+#endif
+
+#include "dialog.rc"
+#include "stringtable.rc"
+
+#ifndef STRINGS_CUSTOM_ICON_RC
+#include "icon.rc"
+#endif
+
+#ifndef STRINGS_CUSTOM_VERSION_RC
+#include "version.rc"
+#endif
+
+#include "unknown.rc"
